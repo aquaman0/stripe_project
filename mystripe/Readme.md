@@ -3,7 +3,7 @@
 ### Запуск для тестирования:
 1. Получаем API-ключи в личном кабинете Stripe: https://dashboard.stripe.com/apikeys
 2. Клонируем репозиторий GIT:
-   #### `git clone https://github.com/aquaman0/.git`
+   #### `git clone https://github.com/aquaman0/stripe_project.git`
 3. Переходим в папку проекта, устанавливаем и активируем виртуальное окружение:
    #### `cd /YOUR_DIRECTORY/mystripe`
    #### `python -m venv stripe_env`
